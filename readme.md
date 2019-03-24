@@ -50,9 +50,7 @@ Overall it could be concluded that for borrowers with low debt to income ratio i
 ## View the Presentation
 
 1. Clone this repository.
-> `https://github.com/amarjeetsingh1999/Communicate-Prosper-Loan-Data-Findings.git`
+> `git clone https://github.com/amarjeetsingh1999/Communicate-Prosper-Loan-Data-Findings.git`
 2. `cd` into the cloned repository and run the below command from the terminal or command line
 > `jupyter nbconvert slide_deck_file.ipynb --to slides --post serve --template output_toggle`
-This should open a tab in your web browser where you can scroll through your
-presentation. Sub-slides can be accessed by pressing 'down' when viewing its parent
-slide.
+This should open a tab in your web browser where you can scroll through the presentation. Sub-slides can be accessed by pressing 'down' when viewing its parent slide.
